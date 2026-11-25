@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+
+#statusBanner {
+    padding: 20px;
+    margin: 30px auto;
+    width: 400px;
+    background-color: pink;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+button {
+    padding: 12px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
